@@ -1,2 +1,2 @@
 # Intro-
-Hello everyone,
+Hello everyone, my name is Rahil, I'm new to developing and still learning coding. My previous experience is as an IT Business Analyst for a top consulting company managing internal clients and SLA’s. My goal is to get exposure to many different paths to see which I like best; software engineer, cyber security, cloud, AI, etc. I’m looking to get into a more creative/technical role where I can build things, test them out, and work with others on projects. If you guys have any feedback on what I can do to get experience as a beginner and what roles I should look at below let me know. 
